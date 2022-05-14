@@ -10,5 +10,7 @@ public class User {
     private String brithday;//生日
     private int age;//年龄
     private int id;
+    private String address;//地址
+    private String number;//电话号码
 }
 
