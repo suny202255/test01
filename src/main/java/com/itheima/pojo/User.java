@@ -6,5 +6,6 @@ package com.itheima.pojo;
  * @Version 1.0
  */
 public class User {
-    private String user;
+    private String user;//用户名
+    private String brithday;//生日
 }
