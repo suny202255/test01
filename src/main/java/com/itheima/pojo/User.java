@@ -9,5 +9,6 @@ public class User {
     private String user;//用户名
     private String brithday;//生日
     private int age;//年龄
+    private int id;
 }
 
